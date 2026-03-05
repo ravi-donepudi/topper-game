@@ -6,4 +6,4 @@ A covering is called efficient if the removal of any square in its collection ca
 
 Experiment with this to see what the largest efficient covering you can come up with!
 
-Link to game: https://github.com/ravi-donepudi/topper-game
+Link to game: https://ravi-donepudi.github.io/topper-game/
