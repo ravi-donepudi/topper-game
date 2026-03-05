@@ -5,3 +5,5 @@ There is a 10x10 grid we are looking to cover with 2x2 squares. A covering is a 
 A covering is called efficient if the removal of any square in its collection causes a cell to become uncovered.
 
 Experiment with this to see what the largest efficient covering you can come up with!
+
+Link to game: https://github.com/ravi-donepudi/topper-game
